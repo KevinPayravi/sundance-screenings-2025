@@ -1,4 +1,4 @@
-# sundance-screenings-2024
+# sundance-screenings-2025
 ## Description
 This Python + Selenium script extracts film info and in-person screening times for the 2025 Sundance Film Festival.
 
